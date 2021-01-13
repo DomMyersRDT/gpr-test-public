@@ -1,0 +1,19 @@
+{
+  "name": "@dommyersrdt/gpr-test-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomMyersRDT/gpr-test-public.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomMyersRDT/gpr-test-public/issues"
+  },
+  "homepage": "https://github.com/DomMyersRDT/gpr-test-public#readme"
+}
